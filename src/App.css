@@ -1,0 +1,13 @@
+.App{
+    text-align: center;
+    margin: 5%;
+    /* background-color: rgb(255, 215, 0); */
+}
+
+.Board{
+    border-radius: 5%;
+    border-color: black;
+    display: grid;
+}
+
+
